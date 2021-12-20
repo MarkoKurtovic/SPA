@@ -1,6 +1,6 @@
 # SPA
 
-SPA created using pure PHP and JS with OOP<br><br>
+ single-page application (SPA) created using pure PHP and JS with OOP<br><br>
 
 ## Result
 
