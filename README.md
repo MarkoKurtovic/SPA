@@ -13,10 +13,10 @@ Delete
 
 ## Built With
 
-* [PHP](https://www.python.org/) - Scripting language
-* [JS](https://www.mysql.com/) - Database
-* [MYSQL](https://www.mysql.com/) - Database
-* [BOOTSTRAP](https://www.mysql.com/) - Database
+* [PHP](https://www.php.net/) - 
+* [JS](https://www.javascript.com/)
+* [MYSQL](https://www.mysql.com/) 
+* [BOOTSTRAP](https://getbootstrap.com/)
 
 
 ## Authors
