@@ -1,6 +1,6 @@
 # SPA
 
-SPA application created using pure PHP and JS with OOP<br><br>
+SPA created using pure PHP and JS with OOP<br><br>
 
 ## Result
 
